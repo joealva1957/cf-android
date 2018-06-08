@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Confianza Transporte</string>
+    <string name="nombre_transporte">Nombre de Transporte</string>
+    <string name="telefono_transporte">Celular de Transporte</string>
+    <string name="servicios_transporte">Servicios de Transporte</string>
+</resources>
